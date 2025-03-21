@@ -2,8 +2,7 @@
 
 [![smithery badge](https://smithery.ai/badge/mcp-server-google-analytics)](https://smithery.ai/server/mcp-server-google-analytics)
 
-An MCP server implementation for accessing Google Analytics 4 (GA4) data, built using the Model Context Protocol
-TypeScript SDK.
+An MCP server implementation for accessing Google Analytics 4 (GA4) data, built using the Model Context Protocol TypeScript SDK.
 
 ## Features
 
@@ -134,8 +133,10 @@ Get user behavior metrics:
 
 ## Contributing
 
-Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and
-the process for submitting pull requests.
+Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Check fork source!
+
+This is created for test purpose only.
 
 ## License
 
